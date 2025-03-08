@@ -1,7 +1,7 @@
 # Hi there 👋, I'm Abdulhaq Sherqo'zieyv (Netrix)
 **`Software Engineer | Passionate about Crafting Digital Experiences`**
 
-### I'm a full-stack javaScript developer of the digital world. There are all coding projects are in progress while I learn the magic of JavaScript...
+### I'm a backend developer of the digital world. There are all coding projects are in progress while I learn the magic of JavaScript...
 ---
 
 ### 🧰 Languages and Tools
