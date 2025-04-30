@@ -23,7 +23,7 @@
 | Category       | Techs                                                                 |
 |----------------|-----------------------------------------------------------------------|
 | **Languages**  | JavaScript (ES6+), TypeScript, SQL, Bash                              |
-| **Backend**    | Node.js, Express.js, Nest.js, Drizzle ORM, JWT, OAuth2                |
+| **Backend**    | Node.js, Express.js, Drizzle ORM, JWT, OAuth2                |
 | **Databases**  | PostgreSQL, MongoDB (Mongoose), Redis                                 |
 | **Dev Tools**  | Git, Docker, Postman, Swagger, ESLint, Prettier, PM2                  |
 | **Auth**       | OAuth2, Google Login, Passport.js, Email/SMS OTP                      |
@@ -92,7 +92,7 @@
 
 ### 🎯 Goals for 2025
 
-- ✅ IELTS 6.5 — improving toward 8.0  
+
 - 🏛️ Get into an IT university in Florida (with a scholarship!)  
 - 💻 Launch my own dev startup focused on useful SaaS tools  
 - 🌍 Reach global dev community, one contribution at a time
