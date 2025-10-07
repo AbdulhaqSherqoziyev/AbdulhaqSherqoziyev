@@ -72,7 +72,7 @@
 | 🌐 Portfolio  | [abdulkhaq-profile.vercel.app](https://abdulkhaq-profile.vercel.app) |
 | 💼 LinkedIn   | [linkedin.com/in/abdulhaq-sherqoziyev](https://www.linkedin.com/in/abdulhaq-sherqoziyev/) |
 | 🐦 Twitter    | [@abdulhaq_sh](https://twitter.com/abdulhaq_sh)                      |
-| 📸 Instagram  | [@dasturchi.tsh](https://www.instagram.com/dasturchi.ts/)             |
+| 📸 Instagram  | [@dasturchi.ts](https://www.instagram.com/dasturchi.ts/)             |
 | 📫 Email      | abdulhaqsherqoziyev@gmail.com                                        |
 | 🧠 Leetcode   | [abdulhaq_sh](https://leetcode.com/u/abdulhaq_sh/)                   |
 | 📚 Dev.to     | [dev.to/abdulhaq_sherqoziyev_ddc](https://dev.to/abdulhaq_sherqoziyev_ddc) |
