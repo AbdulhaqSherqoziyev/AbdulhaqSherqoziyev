@@ -69,7 +69,7 @@
 
 | Platform      | Link                                                                 |
 |---------------|----------------------------------------------------------------------|
-| 🌐 Portfolio  | [abdulkhaq-profile.vercel.app](https://abdulkhaq-profile.vercel.app) |
+| 🌐 Portfolio  | [netrix.uz](https://netrix.uz) |
 | 💼 LinkedIn   | [linkedin.com/in/abdulhaq-sherqoziyev](https://www.linkedin.com/in/abdulhaq-sherqoziyev/) |
 | 🐦 Twitter    | [@abdulhaq_sh](https://twitter.com/abdulhaq_sh)                      |
 | 📸 Instagram  | [@dasturchi.ts](https://www.instagram.com/dasturchi.ts/)             |
