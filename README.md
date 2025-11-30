@@ -72,7 +72,7 @@
 | 🌐 Portfolio  | [netrix.uz](https://netrix.uz) |
 | 💼 LinkedIn   | [linkedin.com/in/abdulhaq-sherqoziyev](https://www.linkedin.com/in/abdulhaq-sherqoziyev/) |
 | 🐦 Twitter    | [@abdulhaq_sh](https://twitter.com/abdulhaq_sh)                      |
-| 📸 Instagram  | [@dasturchi.ts](https://www.instagram.com/dasturchi.ts/)             |
+| 📸 Instagram  | [@abdulhaq_sherqoziyev](https://www.instagram.com/abdulhaq_sherqoziyev/)             |
 | 📫 Email      | abdulhaqsherqoziyev@gmail.com                                        |
 | 🧠 Leetcode   | [abdulhaq_sh](https://leetcode.com/u/abdulhaq_sh/)                   |
 | 📚 Dev.to     | [dev.to/abdulhaq_sherqoziyev_ddc](https://dev.to/abdulhaq_sherqoziyev_ddc) |
